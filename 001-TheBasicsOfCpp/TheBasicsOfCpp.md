@@ -16,5 +16,5 @@ int main()
 - By including header files, you gain access to the many functions provided by the compiler.
 - The statement `using namespace std;` itself makes it easier to use shorter versions of some of the routines provided by the `iostream` header file.
 - In the line `cout << "Hello world!\n";` C++ uses the `cout` object (pronounced "C out") to display text. Getting access to `cout` is the reason that we included the `iostream` header file.
-- `<<` are the insertions operators that indicates what to output.
-- `cout << "Hello world!\n` is equivalent to `cout << "Hello world! << endl
+- `<<` are the "insertions operators" that indicates what to output.
+- `cout << "Hello world!\n` is equivalent to `cout << "Hello world! << endl`.
