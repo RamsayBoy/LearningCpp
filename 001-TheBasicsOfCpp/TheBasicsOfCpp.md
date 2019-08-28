@@ -10,7 +10,7 @@ int main()
 }
 ```
 
-#Keep in mind
+# Keep in mind
 - `#include <iostream>` is an statement that tells the compiler to put code from the header file (`iostream` in this case) into the program before creating the executable.
 - `iostream` header file comes with the compiler and allows you to perform input and output.
 - By including header files, you gain access to the many functions provided by the compiler.
