@@ -4,3 +4,5 @@ LearningCpp.layout
 obj/
 bin/
 main.cpp
+main.exe
+main.o
