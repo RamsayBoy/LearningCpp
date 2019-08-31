@@ -4,7 +4,7 @@
     The first answer is indicated by 1, the second by 2, the third by 3
     The answers are tallied until a 0 is entered
 
-    The program should then show the results of the poll—try making a bar graph that shows the results
+    The program should then show the results of the pollâ€”try making a bar graph that shows the results
     properly scaled to fit on your screen no matter how many results were entered
 */
 
@@ -51,7 +51,8 @@ int main()
         }
     }
     while(answer_2 == answer_1);
-    cout << endl;
+    cout << endl;
+    
     do
     {
         cout << "Enter the answer 3:" << endl;
