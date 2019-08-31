@@ -1,3 +1,4 @@
+# Keep in mind
 - `if(1)` will always cause the body of the if statement code to execute whereas `if(0)` will cause the body of the if statement to never be executed.
 - You can use true and false instead.
 - Relational operators in C++:
