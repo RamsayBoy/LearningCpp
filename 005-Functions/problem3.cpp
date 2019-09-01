@@ -18,7 +18,6 @@ int password_2 = 1234;
 string user_3 = "Dragon";
 int password_3 = 12345;
 
-
 // Function headers
 bool checkUserAndPass(string, int);
 
