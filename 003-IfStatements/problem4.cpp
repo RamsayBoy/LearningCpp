@@ -7,7 +7,7 @@
 
 /*-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!
     ATTENTION:  With the current knowledge is impossible go back to enter usernames
-                and passwords because loops are needed
+                and passwords when some of them is incorrect because loops are needed
 -!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!*/
 
 #include <iostream>
