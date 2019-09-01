@@ -22,6 +22,7 @@ int main()
     else
     {
         cout << "Invalid password" << endl;
-    }
+    }
+    
     return 0;
 }
