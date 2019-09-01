@@ -16,7 +16,7 @@ void bottlesOfBeerSong();
 
 int main()
 {
-int number = 0;
+    int number = 0;
 
     do
     {
